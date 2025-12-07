@@ -1,16 +1,16 @@
-# Salut, je suis Nolan Nedelec ! 👋
+# Salut, je suis Nolan Nedelec ! 
 
-### 🧠 Étudiant Ingénieur en Intelligence Artificielle @ ISEN Brest
+### Étudiant Ingénieur en Intelligence Artificielle @ ISEN Brest
 
 > *"La grandeur d'un homme ne se mesure pas à ce qu'il conquiert, mais à ce qu'il offre."*
 
 Passionné par le **Deep Learning** et la **Data Science**, je ne cherche pas seulement à coder, mais à construire des systèmes fiables et performants. Mon approche est basée sur une rationalité rigoureuse : analyser la donnée, éliminer le bruit, et optimiser la solution.
 
-🔭 **Actuellement :** En Master 1, je me spécialise dans la vision par ordinateur et les réseaux de neurones.
+**Actuellement :** En Master 1, je me spécialise dans la vision par ordinateur et les réseaux de neurones.
 
 ---
 
-### 🎯 Mes Objectifs Professionnels
+### Mes Objectifs Professionnels
 Je suis à la recherche d'opportunités challengeantes dans des environnements techniques exigeants (Tech, Défense, Aéronautique) :
 
 * **🎓 Stage (3-5 mois) :** À partir de **Mai 2026** (Machine Learning / Deep Learning).
@@ -18,7 +18,7 @@ Je suis à la recherche d'opportunités challengeantes dans des environnements t
 
 ---
 
-### 🛠️ Ma Stack Technique
+### Ma Stack Technique
 
 | Domaine | Technologies |
 | :--- | :--- |
@@ -29,22 +29,22 @@ Je suis à la recherche d'opportunités challengeantes dans des environnements t
 
 ---
 
-### 🚀 Projets Phares
+### Projets Phares
 
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
-| 🚢 **Système Prédictif AIS** | Prédiction de trajectoires de navires avec nettoyage intensif de datasets bruités. Comparaison de modèles (Random Forest, SVM). | `Python` `R` `Scikit-Learn` |
-| 🩺 **Cardiofréquencemètre** | Chaîne d'acquisition complète avec contraintes matérielles strictes et traitement du signal. | `C` `STM32` `Élec. Analogique` |
-| 🌌 **Simulation Système Solaire** | Modélisation physique et visualisation de corps célestes. | `Python` |
+| **Système Prédictif AIS** | Prédiction de trajectoires de navires avec nettoyage intensif de datasets bruités. Comparaison de modèles (Random Forest, SVM). | `Python` `R` `Scikit-Learn` |
+| **Cardiofréquencemètre** | Chaîne d'acquisition complète avec contraintes matérielles strictes et traitement du signal. | `C` `STM32` `Élec. Analogique` |
+| **Simulation Système Solaire** | Modélisation physique et visualisation de corps célestes. | `Python` |
 
 ---
 
-### 📊 Statistiques GitHub
+### Statistiques GitHub
 ![Stats de Nolan](https://github-readme-stats.vercel.app/api?username=nolan-nedelec29&show_icons=true&theme=radical)
 
 ---
 
-### 📫 Me Contacter
+### Me Contacter
 * **LinkedIn :** [Nolan Nedelec](https://www.linkedin.com/in/nolan-nedelec-07966524b)
 * **Email :** nolan.nedelec29@gmail.com
 
