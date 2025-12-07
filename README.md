@@ -39,11 +39,6 @@ Je suis à la recherche d'opportunités challengeantes dans des environnements t
 
 ---
 
-### Statistiques GitHub
-![Stats de Nolan](https://github-readme-stats.vercel.app/api?username=nolan-nedelec29&show_icons=true&theme=radical)
-
----
-
 ### Me Contacter
 * **LinkedIn :** [Nolan Nedelec](https://www.linkedin.com/in/nolan-nedelec-07966524b)
 * **Email :** nolan.nedelec29@gmail.com
