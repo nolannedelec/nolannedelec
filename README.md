@@ -6,12 +6,12 @@
 
 Passionné par le **Deep Learning** et la **Data Science**, je ne cherche pas seulement à coder, mais à construire des systèmes fiables et performants. Mon approche est basée sur une rationalité rigoureuse : analyser la donnée, éliminer le bruit, et optimiser la solution.
 
-**Actuellement :** En Master 1, je me spécialise dans la vision par ordinateur et les réseaux de neurones.
+**Actuellement :** En Master 1, je me spécialise dans l'intelligence artificielle et souhaiterai poursuivre dans le deep learning.
 
 ---
 
 ### Mes Objectifs Professionnels
-Je suis à la recherche d'opportunités challengeantes dans des environnements techniques exigeants (Tech, Défense, Aéronautique) :
+Je suis à la recherche d'opportunités challengeantes dans des environnements techniques exigeants (Tech, Défense, Aéronautique ...) :
 
 * **🎓 Stage (3-5 mois) :** À partir de **Mai 2026** (Machine Learning / Deep Learning).
 * **💼 Alternance :** À partir d'**Octobre 2026** (Deep Learning / MLOps).
