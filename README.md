@@ -34,7 +34,7 @@ Je suis à la recherche d'opportunités challengeantes dans des environnements t
 | :--- | :--- | :--- |
 | **[Système Prédictif AIS](https://github.com/nolannedelec/ship-trajectory-prediction-ais)** | **Architecture Big Data & IA complète.** Nettoyage de données maritimes massives, prédiction de trajectoires (Random Forest) et visualisation cartographique web. | `Python` `Scikit-Learn` `PHP` `Leaflet` |
 | **[Oxymètre de Pouls](https://github.com/nolannedelec/oximetry-signal-processing-c)** | **Traitement du Signal en C.** Implémentation de filtres numériques (FIR/IIR) et architecture MVC pour l'analyse de signaux physiologiques. | `C (ANSI)` `Makefile` `Signal Processing` |
-| **[Simulation Système Solaire](https://github.com/nolannedelec/solar-system-simulation)** | **Physique Numérique.** Simulation N-Corps utilisant l'intégrateur **Runge-Kutta 4** pour une précision orbitale maximale. | `Python` `NumPy` `Matplotlib` |
+| **[Simulation Système Solaire](https://github.com/nolannedelec/solar-system-simulation-python)** | **Physique Numérique.** Simulation N-Corps utilisant l'intégrateur **Runge-Kutta 4** pour une précision orbitale maximale. | `Python` `NumPy` `Matplotlib` |
 ---
 
 ### Me Contacter
