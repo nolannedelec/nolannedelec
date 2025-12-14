@@ -42,4 +42,6 @@ Je suis à la recherche d'opportunités challengeantes dans des environnements t
 * **Email :** nolan.nedelec29@gmail.com
 
 ---
+![](https://komarev.com/ghpvc/?username=VOTRE-PSEUDO&label=Vues+Profil)
+---
 *Profil mis à jour pour refléter mon engagement vers l'excellence technique et l'impact durable.*
