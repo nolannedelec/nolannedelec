@@ -33,14 +33,14 @@ Je suis à la recherche d'opportunités challengeantes dans des environnements t
 
 | Projet | Description Technique | Stack |
 | :--- | :--- | :--- |
-| **[Smart Parking Rennes](https://github.com/nolan-nedelec/smart-parking-management)** | **Data Engineering & DevOps.** Récupération temps réel via API Open Data, traitement JSON et visualisation cartographique. Projet entièrement **dockerisé**. | `Python` `Folium` `Docker` `API` |
-| **[Système Prédictif AIS](https://github.com/nolan-nedelec/ship-trajectory-prediction-ais)** | **Architecture Big Data & IA.** Nettoyage de données maritimes massives, prédiction de trajectoires (Random Forest) et visualisation web. | `Scikit-Learn` `Python` `SQL` `Web` |
-| **[Oxymètre de Pouls](https://github.com/nolan-nedelec/oximetry-signal-processing-c)** | **Traitement du Signal & Embarqué.** Implémentation de filtres numériques (FIR/IIR) en C et gestion des interruptions hardware. | `C (ANSI)` `STM32` `Signal` |
-| **[Simulation Système Solaire](https://github.com/nolan-nedelec/solar-system-simulation)** | **Physique Numérique.** Simulation N-Corps (Runge-Kutta 4) comparant la stabilité des orbites. Déploiement via conteneur. | `NumPy` `Matplotlib` `Docker` |
+| **[Smart Parking Rennes](https://github.com/nolannedelec/smart-parking-management)** | **Data Engineering & DevOps.** Récupération temps réel via API Open Data, traitement JSON et visualisation cartographique. Projet entièrement **dockerisé**. | `Python` `Folium` `Docker` `API` |
+| **[Système Prédictif AIS](https://github.com/nolannedelec/ship-trajectory-prediction-ais)** | **Architecture Big Data & IA.** Nettoyage de données maritimes massives, prédiction de trajectoires (Random Forest) et visualisation web. | `Scikit-Learn` `Python` `SQL` `Web` |
+| **[Oxymètre de Pouls](https://github.com/nolannedelec/oximetry-signal-processing-c)** | **Traitement du Signal & Embarqué.** Implémentation de filtres numériques (FIR/IIR) en C et gestion des interruptions hardware. | `C (ANSI)` `STM32` `Signal` |
+| **[Simulation Système Solaire](https://github.com/nolannedelec/solar-system-simulation-python)** | **Physique Numérique.** Simulation N-Corps (Runge-Kutta 4) comparant la stabilité des orbites. Déploiement via conteneur. | `NumPy` `Matplotlib` `Docker` |
 ---
 
 ### Me Contacter
-* **LinkedIn :** [Nolan Nedelec](https://www.linkedin.com/in/nolan-nedelec-07966524b)
+* **LinkedIn :** [Nolan Nedelec](https://www.linkedin.com/in/nolan-nedelec)
 * **Email :** nolan.nedelec29@gmail.com
 
 ---
