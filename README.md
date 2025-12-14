@@ -45,7 +45,7 @@ Je suis à la recherche d'opportunités challengeantes dans des environnements t
 
 ---
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nolan-nedelec&label=Vues+Profil&color=blue" alt="Compteur de vues" />
+<img src="https://komarev.com/ghpvc/?username=nolannedelec&label=Vues+Profil&color=blue" alt="Compteur de vues" />
 </p>
 ---
 *Profil mis à jour pour refléter mon engagement vers l'excellence technique et l'impact durable.*
