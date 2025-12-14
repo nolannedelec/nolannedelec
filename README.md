@@ -13,8 +13,8 @@ Passionné par le **Deep Learning** et la **Data Science**, je ne cherche pas se
 ### Mes Objectifs Professionnels
 Je suis à la recherche d'opportunités challengeantes dans des environnements techniques exigeants (Tech, Défense, Aéronautique ...) :
 
-* **🎓 Stage (3-5 mois) :** À partir de **Mai 2026** (Machine Learning / Deep Learning).
-* **💼 Alternance :** À partir d'**Octobre 2026** (Deep Learning / MLOps).
+* **🎓 Stage (3-5 mois) :** À partir de **Mai 2026** (Machine Learning / Deep Learning / Computer Vision).
+* **💼 Alternance :** À partir d'**Octobre 2026** (Deep Learning / MLOps / Computer Vision).
 
 ---
 
