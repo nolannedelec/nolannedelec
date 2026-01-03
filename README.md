@@ -18,6 +18,16 @@ Je suis à la recherche d'opportunités challengeantes dans des environnements t
 
 ---
 
+### 🧠 Mon approche : De la Racine à la Machine
+Mon travail repose sur la conviction qu'un bon code commence par une équation bien comprise. 
+
+- **Théorie :** Analyse de la convergence, probabilités, et structures algébriques.
+- **Pratique :** Développement de solutions performantes, propres et documentées.
+
+> "Le code est le langage, mais les mathématiques sont la pensée."
+
+--
+
 ### Ma Stack Technique
 
 | Domaine | Technologies |
