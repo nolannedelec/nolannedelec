@@ -15,8 +15,8 @@ Je suis à la recherche d'opportunités challengeantes dans des environnements t
 
 * **🎓 Stage (3-5 mois) :** À partir de **Mai 2026** (Machine Learning / Deep Learning / Computer Vision).
 * **💼 Alternance :** À partir d'**Octobre 2026** (Deep Learning / MLOps / Computer Vision).
-
-----
+-
+---
 
 ### 🧠 Mon approche : De la Racine à la Machine
 Mon travail repose sur la conviction qu'un bon code commence par une équation bien comprise. 
