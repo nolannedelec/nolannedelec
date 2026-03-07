@@ -4,17 +4,17 @@
 
 > *"La grandeur d'un homme ne se mesure pas à ce qu'il conquiert, mais à ce qu'il offre."*
 
-Passionné par le **Deep Learning** et la **Data Science**, je ne cherche pas seulement à coder, mais à construire des systèmes fiables et performants. Mon approche est basée sur une rationalité rigoureuse : analyser la donnée, éliminer le bruit, et optimiser la solution.
+Passionné par le **Deep Learning**, l'**IA Agentique** et la **Data Science**, je ne cherche pas seulement à coder, mais à construire des systèmes fiables, autonomes et performants. Mon approche est basée sur une rationalité rigoureuse : analyser la donnée, éliminer le bruit, et optimiser la solution.
 
-**Actuellement :** En Master 1, je me spécialise dans l'intelligence artificielle et souhaiterai poursuivre dans le deep learning.
+**Actuellement :** En Master 1, je me spécialise dans l'intelligence artificielle et souhaiterai poursuivre dans le Deep Learning et les systèmes agentiques.
 
 ---
 
 ### Mes Objectifs Professionnels
 Je suis à la recherche d'opportunités challengeantes dans des environnements techniques exigeants (Tech, Défense, Aéronautique ...) :
 
-* **🎓 Stage (3-5 mois) :** À partir de **Mai 2026** (Machine Learning / Deep Learning / Computer Vision).
-* **💼 Alternance :** À partir d'**Octobre 2026** (Deep Learning / MLOps / Computer Vision).
+* **🎓 Stage (3-5 mois) :** À partir de **Mai 2026** (Machine Learning / Deep Learning / Computer Vision / IA Agentique).
+* **💼 Alternance :** À partir d'**Octobre 2026** (Deep Learning / MLOps / Agents Autonomes).
 
 ---
 
@@ -43,6 +43,7 @@ Mon travail repose sur la conviction qu'un bon code commence par une équation b
 
 | Projet | Description Technique | Stack |
 | :--- | :--- | :--- |
+| **[Moveetic](https://github.com/nolannedelec/Moveetic)** | **Système de Recommandation NLP.** Moteur de suggestion de films basé sur l'analyse sémantique des synopsis. Développement d'une API backend performante. | `Python` `FastAPI` `NLP` |
 | **[Smart Parking Rennes](https://github.com/nolannedelec/smart-parking-management)** | **Data Engineering & DevOps.** Récupération temps réel via API Open Data, traitement JSON et visualisation cartographique. Projet entièrement **dockerisé**. | `Python` `Folium` `Docker` `API` |
 | **[Système Prédictif AIS](https://github.com/nolannedelec/ship-trajectory-prediction-ais)** | **Architecture Big Data & IA.** Nettoyage de données maritimes massives, prédiction de trajectoires (Random Forest) et visualisation web. | `Scikit-Learn` `Python` `SQL` `Web` |
 | **[Oxymètre de Pouls](https://github.com/nolannedelec/oximetry-signal-processing-c)** | **Traitement du Signal & Embarqué.** Implémentation de filtres numériques (FIR/IIR) en C et gestion des interruptions hardware. | `C (ANSI)` `STM32` `Signal` |
