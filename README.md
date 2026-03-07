@@ -43,7 +43,7 @@ Mon travail repose sur la conviction qu'un bon code commence par une équation b
 
 | Projet | Description Technique | Stack |
 | :--- | :--- | :--- |
-| **[Moveetic](https://github.com/nolannedelec/Moveetic)** | **Système de Recommandation NLP.** Moteur de suggestion de films basé sur l'analyse sémantique des synopsis. Développement d'une API backend performante. | `Python` `FastAPI` `NLP` |
+| **[Moveetic](https://github.com/nolannedelec/Moveetic)** | **Système de Recommandation NLP.** Moteur de suggestion de films basé sur l'analyse sémantique des synopsis. Développement d'une API backend performante. | `Python` `FastAPI` `NLP` `Conda` |
 | **[Smart Parking Rennes](https://github.com/nolannedelec/smart-parking-management)** | **Data Engineering & DevOps.** Récupération temps réel via API Open Data, traitement JSON et visualisation cartographique. Projet entièrement **dockerisé**. | `Python` `Folium` `Docker` `API` |
 | **[Système Prédictif AIS](https://github.com/nolannedelec/ship-trajectory-prediction-ais)** | **Architecture Big Data & IA.** Nettoyage de données maritimes massives, prédiction de trajectoires (Random Forest) et visualisation web. | `Scikit-Learn` `Python` `SQL` `Web` |
 | **[Oxymètre de Pouls](https://github.com/nolannedelec/oximetry-signal-processing-c)** | **Traitement du Signal & Embarqué.** Implémentation de filtres numériques (FIR/IIR) en C et gestion des interruptions hardware. | `C (ANSI)` `STM32` `Signal` |
