@@ -32,22 +32,25 @@ Mon travail repose sur la conviction qu'un bon code commence par une équation b
 
 | Domaine | Technologies |
 | :--- | :--- |
-| **IA, Deep Learning & Agents** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/) |
+| **IA, Deep Learning & Agents** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-blue?style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat) |
 | **Bases de Données** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Big Data](https://img.shields.io/badge/Big%20Data-blue?style=flat) |
-| **Embarqué & Hardware** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-Hardware-red) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Linux Embarqué](https://img.shields.io/badge/Linux_Embedded-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Embarqué & Hardware** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-Hardware-red) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![Linux Embarqué](https://img.shields.io/badge/Linux_Embedded-FCC624?style=flat&logo=linux&logoColor=black) ![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-FP16-76B900?style=flat&logo=nvidia&logoColor=white) |
 | **DevOps & Outils** | ![Conda](https://img.shields.io/badge/Conda-342B39?style=flat&logo=anaconda&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-green) |
 | **Web & App** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+
 ---
 
 ### Projets Phares
 
 | Projet | Description Technique | Stack |
 | :--- | :--- | :--- |
+| **[Détection de Défauts Éoliennes](https://github.com/nolannedelec/YOLOv8-WindTurbine-Inspection)** | **Computer Vision & IA Embarquée.** Détection temps réel de défauts (fissures, érosion, dégâts) sur pales d'éoliennes via YOLOv8m. Optimisation TensorRT FP16 sur NVIDIA Jetson Orin Nano : **30 FPS, 33 ms de latence, mAP50 de 82,1 %.** | `YOLOv8` `TensorRT` `OpenCV` `Gradio` `Jetson` |
 | **[Moveetic](https://github.com/nolannedelec/Moveetic)** | **Système de Recommandation NLP.** Moteur de suggestion de films basé sur l'analyse sémantique des synopsis. Développement d'une API backend performante. | `Python` `FastAPI` `NLP` `Conda` |
 | **[Smart Parking Rennes](https://github.com/nolannedelec/smart-parking-management)** | **Data Engineering & DevOps.** Récupération temps réel via API Open Data, traitement JSON et visualisation cartographique. Projet entièrement **dockerisé**. | `Python` `Folium` `Docker` `API` |
 | **[Système Prédictif AIS](https://github.com/nolannedelec/ship-trajectory-prediction-ais)** | **Architecture Big Data & IA.** Nettoyage de données maritimes massives, prédiction de trajectoires (Random Forest) et visualisation web. | `Scikit-Learn` `Python` `SQL` `Web` |
 | **[Oxymètre de Pouls](https://github.com/nolannedelec/oximetry-signal-processing-c)** | **Traitement du Signal & Embarqué.** Implémentation de filtres numériques (FIR/IIR) en C et gestion des interruptions hardware. | `C (ANSI)` `STM32` `Signal` |
 | **[Simulation Système Solaire](https://github.com/nolannedelec/solar-system-simulation-python)** | **Physique Numérique.** Simulation N-Corps (Runge-Kutta 4) comparant la stabilité des orbites. Déploiement via conteneur. | `NumPy` `Matplotlib` `Docker` |
+
 ---
 
 ### Me Contacter
@@ -58,4 +61,3 @@ Mon travail repose sur la conviction qu'un bon code commence par une équation b
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nolannedelec&label=Vues+Profil&color=blue" alt="Compteur de vues" />
 </p>
-
