@@ -2,7 +2,7 @@
 
 ### AI Engineering Student @ ISEN Brest
 
-> *"The greatness of a man is not measured by what he conquers, but by what he gives."*
+> *"We can only see a short distance ahead, but we can see plenty there that needs to be done." - Alan Turing*
 
 Passionate about **Deep Learning**, **Agentic AI**, and **Data Science**, I don't just aim to write code — I build reliable, autonomous, and high-performance systems. My approach is grounded in rigorous rationality: analyze the data, eliminate the noise, and optimize the solution.
 
@@ -26,7 +26,7 @@ My work is grounded in the conviction that good code starts with a well-understo
 - **Theory:** Convergence analysis, probability, and algebraic structures.
 - **Practice:** Building efficient, clean, and well-documented solutions.
 
-> "Code is the language, but mathematics is the thought."
+> "Neural networks are not magic, they are math." - Andrej Karpathy 
 
 ---
 
