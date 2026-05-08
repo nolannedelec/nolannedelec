@@ -12,7 +12,7 @@ Passionate about **Deep Learning**, **Agentic AI**, and **Data Science**, I don'
 
 ### Professional Goals
 
-I am looking for challenging opportunities in demanding technical environments (Tech, Defense, Aeronautics...):
+I am looking for challenging opportunities in demanding technical environments (Tech, Healthcare, Defense, Aeronautics...):
 
 * **🎓 Internship (3–5 months):** Starting **May 2026** (Machine Learning / Deep Learning / Computer Vision / Agentic AI).
 * **💼 Apprenticeship:** Starting **October 2026** (Deep Learning / MLOps / Autonomous Agents).
